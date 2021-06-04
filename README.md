@@ -1,2 +1,2 @@
 # DSA
-Data Structure and Algorithm with Python
+Data Structure and Algorithm using Python.
